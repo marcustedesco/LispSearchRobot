@@ -5,4 +5,7 @@ Marcus Tedesco
 Dec. 2, 2014
 Dr. Arthur
 
-To run:
+To run on the rlogin cluster:
+	/usr/local/bin/mzscheme < lisp_robot.rkt
+
+This program should generate the correct output
